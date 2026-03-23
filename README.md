@@ -25,6 +25,18 @@ Key Features
     Agent-based crime simulation (Mesa framework)
     Model performance evaluation (Accuracy, Precision, Recall, F1-score)
 
+Simulation Model
+
+    The project includes an Agent-Based Simulation Model to simulate real-world crime behavior.
+    Each agent represents an individual with attributes like age, gender, race, and crime history
+    Agents move across the grid and interact with nearby agents
+    Crime probability is influenced by:
+        Personal attributes (age, gender, race)
+        Nearby criminal agents (near-repeat theory)
+        Predicted crime probability from ML models
+    The simulation dynamically generates crime events over time
+    This helps in understanding how crime spreads and evolves in different areas
+
 Technologies Used
     
     Python
