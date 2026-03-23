@@ -2,15 +2,19 @@
 
 Project Description 
 
-    This project is a machine learning-based crime prediction system that identifies crime hotspots using spatial and temporal data analysis.
+    This project is a machine learning-based crime prediction system that identifies crime hotspots 
+    using spatial and temporal data analysis.
     
-    It combines deep learning and statistical models to predict crime probability and visualize high-risk areas on an interactive map.
+    It combines deep learning and statistical models to predict crime probability and visualize 
+    high-risk areas on an interactive map.
     
-    The system uses a ConvLSTM model to capture spatial-temporal patterns, along with a Weather Model and Time Series Model (SARIMAX) to improve prediction accuracy.
+    The system uses a ConvLSTM model to capture spatial-temporal patterns, along with a Weather Model and 
+    Time Series Model (SARIMAX) to improve prediction accuracy.
     
     It also includes an agent-based simulation model to simulate crime behavior and movement.
     
-    An interactive dashboard built with Streamlit allows users to explore crime predictions, hotspot maps, and performance metrics in real time.
+    An interactive dashboard built with Streamlit allows users to explore crime predictions, hotspot maps, 
+    and performance metrics in real time.
 
 Key Features
 
